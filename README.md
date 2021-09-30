@@ -8,8 +8,10 @@ Modülasyon Çeşitleri ve Özellikleri
 
 Modülasyon işlemi sonunda taşıyıcı sinyalin frekansı, genliği ile fazı değişikliğe uğramaktadır. Genel olarak üç çeşit modülasyon bulunmaktadır.
 
-a) Genlik Modülasyonu (Amplitude Modulation, A-M, G-M): Taşıyıcı sinyalin genliğinin, bilgi sinyalinin genliğine ve frekansına bağlı olarak değiştirilmesi olarak tanımlanır.
+a) Genlik Modülasyonu (Amplitude Modulation, A-M, G-M): Taşıyıcı sinyalin genliğinin, bilgi sinyalinin genliğine ve frekansına bağlı olarak değiştirilmesi olarak tanımlanır. 
+
 b) Frekans Modülasyonu (Frequency Modulation, F-M): Taşıyıcı sinyal frekansının, bilgi sinyalinin frekans ile genliğine bağlı olarak değiştirilmesidir.
+
 c) Faz Modülasyonu (Phase Modulation, P-M): Taşıyıcı sinyal fazının, bilgi sinyalinin frekans ve genliğine bağlı olarak değiştirilmesi olarak ifade edilmektedir. Endirekt F-M olarak da bilinmektedir.
 
 Otomatik modülasyon sınıflandırma (OMS) işlemi ise alınan sinyalden modülasyon türlerini sınıflandırmak için kullanılan bir yöntemdir. Otomatik modülasyon sınıflandırma, elektronik harp, yazılım tabanlı radyo ve spektrum farkındalığı gibi çeşitli askeri ve sivil iletişim sistemlerinin önemli bir kısmında kullanılmaktadır.
