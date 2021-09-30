@@ -26,3 +26,5 @@ The shape of the dataset is (220000, 2, 128 ). There are 220000 pieces of data i
 
 ![image]("https://user-images.githubusercontent.com/62508669/135423929-b1b5843d-8dd3-443f-b0d2-cb5ce699d8dc.png" = 250x250) 
 
+<img src="https://user-images.githubusercontent.com/62508669/135423929-b1b5843d-8dd3-443f-b0d2-cb5ce699d8dc.png" width="48">
+
