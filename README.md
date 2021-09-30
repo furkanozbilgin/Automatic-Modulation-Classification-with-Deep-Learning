@@ -19,7 +19,7 @@ The automatic modulation classification (AMC) process is a method used to classi
 
 # Dataset 
 Radio ML 2016.a Dataset
-It was decided to use the RadioML 2016.a data set, which was also used in the article “Robust and Fast Automatic Modulation Classification with CNN under Multipath Fading Channels”, which was used as a reference while carrying out this project.
+It was decided to use the RadioML 2016.a data set, which was also used in the article [“Robust and Fast Automatic Modulation Classification with CNN under Multipath Fading Channels”](https://arxiv.org/abs/1911.04970), which was used as a reference while carrying out this project.
 RadioML 2016.a is a synthetic dataset created with GNU Radio, consisting of 11 modulations (8 digital and 3 analog) at varying signal-to-noise ratios.
 Each modulation here consists of 20000 pieces of data, each modulation has 20 different SNR levels between -20db and 18db with 2db intervals. There are 1000 pieces of data in each SNR level.
 The shape of the dataset is (220000, 2, 128 ). There are 220000 pieces of data in total. Each data contains 2x128 information as two axes, real and imaginary axis. 
