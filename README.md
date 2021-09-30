@@ -24,5 +24,5 @@ RadioML 2016.a is a synthetic dataset created with GNU Radio, consisting of 11 m
 Each modulation here consists of 20000 pieces of data, each modulation has 20 different SNR levels between -20db and 18db with 2db intervals. There are 1000 pieces of data in each SNR level.
 The shape of the dataset is (220000, 2, 128 ). There are 220000 pieces of data in total. Each data contains 2x128 information as two axes, real and imaginary axis.
 
-![image](https://user-images.githubusercontent.com/62508669/135423929-b1b5843d-8dd3-443f-b0d2-cb5ce699d8dc.png) = 250x250
+![image](https://user-images.githubusercontent.com/62508669/135423929-b1b5843d-8dd3-443f-b0d2-cb5ce699d8dc.png = 250x250) 
 
