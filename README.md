@@ -25,3 +25,6 @@ Each modulation here consists of 20000 pieces of data, each modulation has 20 di
 The shape of the dataset is (220000, 2, 128 ). There are 220000 pieces of data in total. Each data contains 2x128 information as two axes, real and imaginary axis. 
 
 <img src="https://user-images.githubusercontent.com/62508669/135423929-b1b5843d-8dd3-443f-b0d2-cb5ce699d8dc.png" width="256">
+
+## Conclusion 
+After the model was fitted, it was predicted with the test data, and the prediction values for each SNR level of each Modulation were as follows. As expected, the low SNR did/could not separate the modulation classes poorly in the high-noise modulations. It has been shown that the established CLDNN model can make a much better classification at high SNR levels and has given very successful results for almost every modulation type. It was observed that WBFM – caught a false similarity in AM-DSB modulations.
